@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0eda2125-449e-432c-89a3-52fbffe2b8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitDescriptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitNumber.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +118,7 @@
       <updated>1587023801686</updated>
       <workItem from="1587023803166" duration="10016000" />
       <workItem from="1587098363229" duration="3864000" />
-      <workItem from="1587439906453" duration="775000" />
+      <workItem from="1587439906453" duration="2158000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1587094478954</created>
@@ -156,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587440077350</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="https://github.com/miaozo/bitnumber.git">
+      <created>1587440772158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587440772158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,26 +169,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="https://github.com/miaozo/bitnumber.git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="459" y="70" key="CommitChangelistDialog2" timestamp="1587440577746">
+    <state x="798" y="412" width="381" height="472" key="#Notifications" timestamp="1587441012146">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="459" y="70" key="CommitChangelistDialog2/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440577746" />
-    <state width="1359" height="284" key="GridCell.Tab.0.bottom" timestamp="1587102862286">
+    <state x="798" y="412" width="381" height="472" key="#Notifications/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587441012145" />
+    <state x="459" y="70" key="CommitChangelistDialog2" timestamp="1587440772037">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1359" height="284" key="GridCell.Tab.0.bottom/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587102862286" />
-    <state width="1359" height="284" key="GridCell.Tab.0.center" timestamp="1587102862286">
+    <state x="459" y="70" key="CommitChangelistDialog2/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440772037" />
+    <state width="1290" height="224" key="GridCell.Tab.0.bottom" timestamp="1587440751092">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1359" height="284" key="GridCell.Tab.0.center/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587102862286" />
-    <state width="1359" height="284" key="GridCell.Tab.0.left" timestamp="1587102862282">
+    <state width="1290" height="224" key="GridCell.Tab.0.bottom/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440751092" />
+    <state width="1290" height="224" key="GridCell.Tab.0.center" timestamp="1587440751091">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1359" height="284" key="GridCell.Tab.0.left/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587102862282" />
-    <state width="1359" height="284" key="GridCell.Tab.0.right" timestamp="1587102862286">
+    <state width="1290" height="224" key="GridCell.Tab.0.center/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440751091" />
+    <state width="1290" height="224" key="GridCell.Tab.0.left" timestamp="1587440751090">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1359" height="284" key="GridCell.Tab.0.right/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587102862286" />
+    <state width="1290" height="224" key="GridCell.Tab.0.left/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440751090" />
+    <state width="1290" height="224" key="GridCell.Tab.0.right" timestamp="1587440751091">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1290" height="224" key="GridCell.Tab.0.right/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440751091" />
     <state width="1719" height="231" key="GridCell.Tab.1.bottom" timestamp="1587098336961">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -238,10 +241,14 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1719" height="231" key="GridCell.Tab.3.right/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587098336965" />
-    <state x="482" y="234" key="Vcs.Push.Dialog.v2" timestamp="1587440080050">
+    <state x="501" y="416" width="867" height="388" key="MultipleFileMergeDialog" timestamp="1587441484485">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="482" y="234" key="Vcs.Push.Dialog.v2/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440080050" />
+    <state x="501" y="416" width="867" height="388" key="MultipleFileMergeDialog/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587441484485" />
+    <state x="482" y="234" key="Vcs.Push.Dialog.v2" timestamp="1587440827764">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="482" y="234" key="Vcs.Push.Dialog.v2/0.23.1680.1027/-2560.-367.2560.1417@0.23.1680.1027" timestamp="1587440827764" />
     <state x="584" y="213" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587025246901">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
