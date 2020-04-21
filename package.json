@@ -1,0 +1,23 @@
+{
+  "name": "@miaozo/bitnumber",
+  "version": "1.0.2",
+  "description": "bits to number",
+  "main": "dist/index.js",
+  "types": "dist/@types/index.d.ts",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "keywords": [
+    "bitnumber"
+  ],
+  "author": "mattf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miaozo/bitnumber.git"
+  },
+  "devDependencies": {
+    "@types/mocha": "^7.0.2",
+    "mocha": "^7.1.1"
+  }
+}
